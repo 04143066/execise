@@ -1,0 +1,26 @@
+
+	java.io.*;
+	
+	FileInputStream        字节流输入
+	FileOutputStream       字节流输出    
+	FileReader             字符流输入
+	FileWriter             字符流输出
+	
+	BufferedReader         带缓存
+	BufferedWriter
+	BufferedInputStream
+	BufferedOutputStream
+	
+	DataInputStream
+	DataOutputStream
+	
+	ObjectInputStream       读取java对象
+	ObjectOutputStream
+	
+	InputStreamReader       转换流（将字节流转换成字符流）
+	OutputStreamWriter
+	
+	PrintWriter                
+	PrintStream             标准的输出流（默认输出到控制台）
+	
+	

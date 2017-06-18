@@ -1,0 +1,3 @@
+driver = oracle.jdbc.driver.OracleDriver
+username = \u90b9\u96c4\u946b
+password = tiger
